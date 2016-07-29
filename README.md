@@ -1,2 +1,3 @@
 # hello-world
 La mia prima GitHub repository
+Eccomi qui a GitHub pronto ad inserire un po' di prove di coding...
